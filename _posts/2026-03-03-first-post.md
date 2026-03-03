@@ -1,6 +1,6 @@
 ---
 title: "첫 글"
-date: 2026-03-03 22:00:00 +0900
+date: 2026-03-04 00:00:00 +0900
 categories: [Blog]
 tags: [start]
 ---
